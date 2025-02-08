@@ -1,16 +1,21 @@
-# Topics in Software Engineering
+# PowerJournal  
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## **Project Description**  
+PowerJournal is a workout tracking application designed to help users log their strength training progress and achieve their fitness goals. With PowerJournal, users can easily record details such as exercises, weights lifted, sets, reps, rest times, and personal records.  
 
-# Tools
-The tools that are installed with this devcontainer are:
+Beyond just tracking, PowerJournal provides valuable insights into your progress with tools to analyze strength gains, visualize trends over time, and celebrate personal records. Whether you're a seasoned bodybuilder, a strength trainer, or a casual gym-goer, PowerJournal offers the perfect solution for organizing and optimizing your workouts.  
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+## **Problem Statement**  
+Many fitness enthusiasts struggle to track their workouts efficiently. Spreadsheets and note-taking apps often become disorganized, making it difficult to monitor progress and identify areas for improvement. PowerJournal addresses this issue by providing a streamlined platform specifically designed for tracking and analyzing strength training data.  
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+## **Primary Users**  
+- **Bodybuilders** – Focused on hypertrophy and structured progression.  
+- **Fitness Coaches and Trainers** – Aiming for progressive overload and strength gains.  
+- **Fitness Enthusiasts** – Passionate individuals committed to improving their performance.  
+- **Casual Gym-Goers** – Anyone who wants a simple and effective way to track workouts and see progress.  
+
+## **Features**  
+- **Comprehensive Tracking**: Log exercises, weights, sets, reps, rest times, and personal records.  
+- **Progress Analysis**: Visualize strength trends over time with graphs and stats.  
+- **PR Highlights**: Automatically track and celebrate personal bests.  
+- **Customization**: Tailor the app to your workout routine and preferences.  
